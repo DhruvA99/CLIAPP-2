@@ -57,3 +57,4 @@ userList.forEach(item=>{
 })
 
 console.log(chalk.bold.magenta("The highest Scorer is "+highestScorerName+" with a score of "+highestScore));
+console.log("Thankyou for playing !")
